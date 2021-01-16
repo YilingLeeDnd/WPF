@@ -4,7 +4,6 @@ D:\Training\20210109-WPF\WPF\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
 D:\Training\20210109-WPF\WPF\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
 D:\Training\20210109-WPF\WPF\BMI\bin\Debug\netcoreapp3.1\BMI.dll
 D:\Training\20210109-WPF\WPF\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
-D:\Training\20210109-WPF\WPF\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
 D:\Training\20210109-WPF\WPF\BMI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 D:\Training\20210109-WPF\WPF\BMI\obj\Debug\netcoreapp3.1\App.g.cs
 D:\Training\20210109-WPF\WPF\BMI\obj\Debug\netcoreapp3.1\BMI_MarkupCompile.cache
